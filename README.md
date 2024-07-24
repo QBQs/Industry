@@ -1,3 +1,3 @@
 # Industry
 Industry Application
-Home Automatio
+Home Automation
